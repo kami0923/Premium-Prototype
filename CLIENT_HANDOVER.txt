@@ -1,0 +1,9 @@
+SFSB GROUP — CLIENT PRESENTATION HANDOVER
+
+This is the updated premium multi-page front-end prototype, restored to the earlier midnight-navy / electric-blue theme and Germany photography.
+
+Open index.html first. The top navigation links to separate pages: explore.html, about.html, process.html, guides.html and contact.html. The consultant dashboard is a separate dashboard.html page linked from the footer only.
+
+Visual improvements include stronger high-contrast hero text, clearer sales-focused copy, refined typography, more compact premium cards, glass-style hero information panels, smooth hover/scroll animation and mobile-specific layouts.
+
+The contact/enquiry flows and dashboard are demonstrations only. The dashboard uses fictional sample records; no live backend, authentication or database is connected. Confirm all business contact details and have visa-related copy checked against official German sources before launch.
